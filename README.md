@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Abdullahi Yusuf](https://abdullahicyc.com), I'm a Software Engineer working [@safarifone](http://safarione.ca), a R&D company that provide MOBILE FINANCIAL solutions to a variety of telecom/banking companies in Somali Region. I've been working in tech since 2017 with all kind of tech stack ranging from web, backend to native mobile development.
+I'm [Abdullahi Yusuf](https://abdullahicyc.com), I'm a full-stack software engineer working [@safarifone](http://safarione.ca), a R&D company that provide MOBILE FINANCIAL solutions to a variety of telecom/banking companies in Somali Region. I've been working in tech since 2017 with all kind of tech stack ranging from web, backend to native mobile development.
 
 <!-- Social Media -->
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3]
